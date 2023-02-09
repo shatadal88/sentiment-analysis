@@ -1,1 +1,4 @@
 https://colab.research.google.com/drive/13QOVoOLub3-YLqDvT7vlp_0eo0ehIHlE?usp=sharing
+
+
+pip install -q transformers
